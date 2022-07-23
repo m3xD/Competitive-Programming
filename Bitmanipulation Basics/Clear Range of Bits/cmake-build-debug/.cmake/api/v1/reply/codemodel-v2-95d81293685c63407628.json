@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Clear_Range_of_Bits",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Clear_Range_of_Bits::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Clear_Range_of_Bits-Debug-2785a56a8b39394f3876.json",
+					"name" : "Clear_Range_of_Bits",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/duykhanh/Desktop/Udemy CP/Bitmanipulation Basics/Clear Range of Bits/cmake-build-debug",
+		"source" : "/Users/duykhanh/Desktop/Udemy CP/Bitmanipulation Basics/Clear Range of Bits"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
