@@ -8,8 +8,12 @@ void cleanBit(int &n,int i) {
 }
 
 void updateBit(int &n,int i,int v) {
-    cleanBit(n,i);
+    cleanBit(n,i); // reformat
     int mask = (v<<i);
+    // 111101010
+    // OR operation
+    // 000001000 ( if v = 1)
+    // 000000000 ( if v = 0)
     n = n | mask;
 }
 
