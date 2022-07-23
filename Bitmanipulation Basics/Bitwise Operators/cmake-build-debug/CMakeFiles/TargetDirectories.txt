@@ -1,0 +1,3 @@
+/Users/duykhanh/Desktop/Udemy CP/Bitwise Operators/cmake-build-debug/CMakeFiles/Bitwise_Operators.dir
+/Users/duykhanh/Desktop/Udemy CP/Bitwise Operators/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/duykhanh/Desktop/Udemy CP/Bitwise Operators/cmake-build-debug/CMakeFiles/rebuild_cache.dir
