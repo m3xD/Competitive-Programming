@@ -1,0 +1,3 @@
+/Users/duykhanh/Desktop/Udemy CP/Bitmanipulation Basics/Clear The Bit/cmake-build-debug/CMakeFiles/Clear_The_Bit.dir
+/Users/duykhanh/Desktop/Udemy CP/Bitmanipulation Basics/Clear The Bit/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/duykhanh/Desktop/Udemy CP/Bitmanipulation Basics/Clear The Bit/cmake-build-debug/CMakeFiles/rebuild_cache.dir
