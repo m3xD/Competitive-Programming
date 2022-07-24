@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Clear_Last_i_Bit",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Clear_Last_i_Bit::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Clear_Last_i_Bit-Debug-d5a2f2b9475a4b17fe18.json",
+					"name" : "Clear_Last_i_Bit",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/duykhanh/Desktop/Udemy CP/Bitmanipulation Basics/Clear Last i Bit/cmake-build-debug",
+		"source" : "/Users/duykhanh/Desktop/Udemy CP/Bitmanipulation Basics/Clear Last i Bit"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
