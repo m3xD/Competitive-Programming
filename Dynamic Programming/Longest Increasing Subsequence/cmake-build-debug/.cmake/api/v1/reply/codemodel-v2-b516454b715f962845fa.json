@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Longest_Increasing_Subsequence",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Longest_Increasing_Subsequence::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Longest_Increasing_Subsequence-Debug-88d451914ebeb59d0b5d.json",
+					"name" : "Longest_Increasing_Subsequence",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/duykhanh/Desktop/UdemyCP/Dynamic Programming/Longest Increasing Subsequence/cmake-build-debug",
+		"source" : "/Users/duykhanh/Desktop/UdemyCP/Dynamic Programming/Longest Increasing Subsequence"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

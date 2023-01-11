@@ -1,0 +1,13 @@
+# ninja log v5
+0	818	1662721495670567862	CMakeFiles/Inversion_Count.dir/main.cpp.o	47faccf63ca78d27
+819	872	1662721495728016415	Inversion_Count	813a1da88513e567
+1	567	1662721509483636008	CMakeFiles/Inversion_Count.dir/main.cpp.o	47faccf63ca78d27
+567	601	1662721509519770520	Inversion_Count	813a1da88513e567
+2	531	1662721559844305397	CMakeFiles/Inversion_Count.dir/main.cpp.o	47faccf63ca78d27
+531	563	1662721559878719746	Inversion_Count	813a1da88513e567
+2	511	1662721567370746643	CMakeFiles/Inversion_Count.dir/main.cpp.o	47faccf63ca78d27
+511	539	1662721567400591376	Inversion_Count	813a1da88513e567
+2	533	1662721574893212148	CMakeFiles/Inversion_Count.dir/main.cpp.o	47faccf63ca78d27
+533	565	1662721574927067581	Inversion_Count	813a1da88513e567
+2	514	1662721592507786810	CMakeFiles/Inversion_Count.dir/main.cpp.o	47faccf63ca78d27
+514	543	1662721592538402916	Inversion_Count	813a1da88513e567

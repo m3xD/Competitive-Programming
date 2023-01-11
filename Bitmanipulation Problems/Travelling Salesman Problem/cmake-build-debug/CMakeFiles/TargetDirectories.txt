@@ -1,0 +1,3 @@
+/Users/duykhanh/Desktop/UdemyCP/Bitmanipulation Problems/Travelling Salesman Problem/cmake-build-debug/CMakeFiles/Travelling_Salesman_Problem.dir
+/Users/duykhanh/Desktop/UdemyCP/Bitmanipulation Problems/Travelling Salesman Problem/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/duykhanh/Desktop/UdemyCP/Bitmanipulation Problems/Travelling Salesman Problem/cmake-build-debug/CMakeFiles/rebuild_cache.dir

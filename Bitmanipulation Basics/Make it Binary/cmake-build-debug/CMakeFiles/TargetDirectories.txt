@@ -1,0 +1,3 @@
+/Users/duykhanh/Desktop/Udemy CP/Bitmanipulation Basics/Make it Binary/cmake-build-debug/CMakeFiles/Make_it_Binary.dir
+/Users/duykhanh/Desktop/Udemy CP/Bitmanipulation Basics/Make it Binary/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/duykhanh/Desktop/Udemy CP/Bitmanipulation Basics/Make it Binary/cmake-build-debug/CMakeFiles/rebuild_cache.dir

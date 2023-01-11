@@ -1,0 +1,5 @@
+# ninja log v5
+1	503	1658656360580475263	CMakeFiles/Longest_Consecutive_Run_of_1s_in_Binary.dir/main.cpp.o	1639408da6aee18e
+504	538	1658656360617032438	Longest_Consecutive_Run_of_1s_in_Binary	86af3454c95c268a
+2	715	1658656485721286450	CMakeFiles/Longest_Consecutive_Run_of_1s_in_Binary.dir/main.cpp.o	1639408da6aee18e
+715	760	1658656485769061041	Longest_Consecutive_Run_of_1s_in_Binary	86af3454c95c268a

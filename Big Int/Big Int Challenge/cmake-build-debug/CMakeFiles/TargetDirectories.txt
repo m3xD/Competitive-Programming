@@ -1,0 +1,3 @@
+/Users/duykhanh/Desktop/Udemy CP/Big Int/Big Int Challenge/cmake-build-debug/CMakeFiles/Big_Int_Challenge.dir
+/Users/duykhanh/Desktop/Udemy CP/Big Int/Big Int Challenge/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/duykhanh/Desktop/Udemy CP/Big Int/Big Int Challenge/cmake-build-debug/CMakeFiles/rebuild_cache.dir

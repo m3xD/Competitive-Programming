@@ -1,0 +1,3 @@
+/Users/duykhanh/Desktop/UdemyCP/Sqrt/Sum Queries/cmake-build-release-gcc/CMakeFiles/Sum_Queries.dir
+/Users/duykhanh/Desktop/UdemyCP/Sqrt/Sum Queries/cmake-build-release-gcc/CMakeFiles/edit_cache.dir
+/Users/duykhanh/Desktop/UdemyCP/Sqrt/Sum Queries/cmake-build-release-gcc/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Friend_s_Paring_Problem_",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Friend_s_Paring_Problem_::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Friend_s_Paring_Problem_-Debug-330699c9f130b523b054.json",
+					"name" : "Friend_s_Paring_Problem_",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/duykhanh/Desktop/Udemy CP/Recursion/Friend's Paring Problem /cmake-build-debug",
+		"source" : "/Users/duykhanh/Desktop/Udemy CP/Recursion/Friend's Paring Problem "
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
